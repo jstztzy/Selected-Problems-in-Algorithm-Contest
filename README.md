@@ -13,7 +13,7 @@ Selected Problems in Algorithm Contest
 ### 目录 (Content)
 
 - Preface
-- Part I. Solving a bundle of Problems
+- Part I. Solving a Bundle of Problems
   + Chapter 1. GSS
   + Chapter 2. QTREE
   + Chapter 3. COT
