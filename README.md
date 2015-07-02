@@ -15,16 +15,24 @@ Selected Problems in Algorithm Contest
 - Preface
 - Part I. Solving a Bundle of Problems
   + Chapter 1. GSS
+    + 最大连续子序列和
+    + 离线算法
+    + 习题
   + Chapter 2. QTREE
   + Chapter 3. COT
-- Part II Selected Problems in Algorithm Contest
+- Part II. Selected Problems in Algorithm Contest
   + Chapter 4. HDU 4943. K-th good string
   + Chapter 5. SRM 558. Div 1. 1000
   + Chapter 6. HDU 3842. Machine Works
-- Part III Extremely Hard Problems in Algorithm Contest 
+- Part III. Extremely Hard Problems in Algorithm Contest 
   + Chapter 7. Quasi-Template
   + Chapter 8. Quasi-Polynomial
 - Appendix
+  + 线段树
+  + 伸展树
+  + 动态树
+  + 后缀自动机
+
 
 
 
