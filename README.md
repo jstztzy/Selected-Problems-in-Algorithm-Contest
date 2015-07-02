@@ -1,37 +1,37 @@
-gitbook
+Selected Problems in Algorithm Contest
 ======
 
-This is a simple template shows how to quickly start a   [GitBook](https://www.gitbook.io)
+### 出版流程
+  ... -> 有个初稿  -> 联系出版 -> 商量细节 -> alpha -> beta -> 送审 -> 出版 -> 修改 -> 再版 -> ...
+      (We are Here)
 
-这是个快速开始 [GitBook](https://www.gitbook.io) 的模板项目
+总之先写样章
 
-##Usage 用法
+### 书名
+算法竞赛题选 (Selected Problems in Algorithm Contest)
 
-###Installation 安装
+### 目录 (Content)
 
-    $ npm install gitbook -g
-  	
-###Checkout the repository 检出项目
+Content 
+Praface 
+Part I
+Solving a bundle of Problem
+Chapter 1 GSS
+Chapter 2 QTREE
+Chapter 3 COT
 
-    $ git clone https://github.com/waylau/gitbook.git
-  
-###Build 编译
+Part II
+Popular Algorithm in Algorithm Contest
+Chapter 4 k-string（字符串，SAM，后缀树维护 SAM。。。
+Chapter 5 SRM 558 - 1000（网络流。？。。
+Chapter 6 ... （cdq 分治。。Splay。。。
 
-	$ gitbook build ./
-	
-This is a `_book` directory was created.
+Part III 
+Extremely Hard Problem in Algorithm Contest 
+Chapter 7 Quasi-Template
+Chapter 8 Quasi-Polynomial
+Appendix
 
-![](http://99btgc01.info/uploads/2014/12/02%282%29.jpg)
 
-###Run 运行
-
-run the `index.html` in the `_book` directory .
- 
-打开该目录，右键运行 index.html 即可看到 gitbook 的效果
-
-![](http://99btgc01.info/uploads/2014/12/03%282%29.jpg)
-
-![](http://99btgc01.info/uploads/2014/12/04%282%29.jpg)
-
-Welcome to vist my blog at [www.waylau.com](http://www.waylau.com/)
-
+### 参考资料
+[用 Github、Markdown 和 GitBook 写开源书](http://my.oschina.net/waylau/blog/355179)
