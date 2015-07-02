@@ -15,9 +15,9 @@ Selected Problems in Algorithm Contest
 
 - Preface
 - Part I. Solving a bundle of Problems
--- Chapter 1. GSS
--- Chapter 2. QTREE
--- Chapter 3. COT
++ Chapter 1. GSS
++ Chapter 2. QTREE
++ Chapter 3. COT
 - Part II Selected Problems in Algorithm Contest
 -- Chapter 4. HDU 4943. K-th good string
 -- Chapter 5. SRM 558. Div 1. 1000
