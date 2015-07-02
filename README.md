@@ -22,8 +22,8 @@ Selected Problems in Algorithm Contest
   + Chapter 5. SRM 558. Div 1. 1000
   + Chapter 6. HDU 3842. Machine Works
 - Part III Extremely Hard Problems in Algorithm Contest 
-  + Chapter 7 Quasi-Template
-  + Chapter 8 Quasi-Polynomial
+  + Chapter 7. Quasi-Template
+  + Chapter 8. Quasi-Polynomial
 - Appendix
 
 

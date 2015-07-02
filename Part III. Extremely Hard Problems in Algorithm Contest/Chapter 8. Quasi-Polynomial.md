@@ -1,0 +1,1 @@
+http://discuss.codechef.com/questions/4505/qpolysum-editorial
