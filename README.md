@@ -9,8 +9,9 @@ Selected Problems in Algorithm Contest
 
 ### 介绍
 
-书名暂定：算法竞赛题选 (Selected Problems in Algorithm Contest)
 本书是：“以一些题目为线索，讲解相关知识。”
+
+书名暂定：算法竞赛题选 (Selected Problems in Algorithm Contest)
 
 正文描述一道题目时，假定你所有背景知识都会，然后主要是介绍各种方法并比较。
 然后所有背景知识，放在附录里去详细介绍。
