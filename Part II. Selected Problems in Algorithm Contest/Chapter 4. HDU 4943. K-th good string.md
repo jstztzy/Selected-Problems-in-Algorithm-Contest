@@ -1,6 +1,6 @@
 http://acm.hdu.edu.cn/showproblem.php?pid=4943
 
-HDU 4943. K-th good string
+# HDU 4943. K-th good string
 ### Problem Description
 One day, Lord gave you a string S. Let’s define the pair(x, p) represent the substring S[p-x+1,p-x+2,…,p]. The index of S counts from 0. Then, Lord will tell you some information about this string. 
 
@@ -27,3 +27,7 @@ The pair (x, p) will always represent a substring of S.
 For each case, output “Case #k:” one line first, where k means the case number count from 1.
 
 For every message of type 3, print the answer one line. If there is no such K-th good string, print -1.
+
+
+
+
