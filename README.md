@@ -9,7 +9,7 @@ Selected Problems in Algorithm Contest
 
 ### 介绍
 
-本书是：“以一些题目为线索，讲解相关知识。”
+本书是：“以一些算法题目为线索，讲解相关知识的书。”
 
 书名暂定：算法竞赛题选 (Selected Problems in Algorithm Contest)
 
