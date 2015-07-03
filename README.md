@@ -7,8 +7,16 @@ Selected Problems in Algorithm Contest
 
 总之先写样章...
 
-### 书名
-算法竞赛题选 (Selected Problems in Algorithm Contest)
+### 介绍
+
+书名暂定：算法竞赛题选 (Selected Problems in Algorithm Contest)
+本书是：“以一些题目为线索，讲解相关知识。”
+
+所选题目的准则时
++ 没有背景知识和有背景知识时做题时间差十几倍
++ 所用的知识或方法，出现在了很多其他题目中，具有一定的代表性
++ 有趣
+
 
 ### 目录 (Content)
 
