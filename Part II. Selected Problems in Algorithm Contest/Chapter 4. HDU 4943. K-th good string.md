@@ -1,4 +1,7 @@
 http://acm.hdu.edu.cn/showproblem.php?pid=4943
+http://user.qzone.qq.com/251815992/blog/1407949956
+
+
 
 # HDU 4943. K-th good string
 ### Problem Description
