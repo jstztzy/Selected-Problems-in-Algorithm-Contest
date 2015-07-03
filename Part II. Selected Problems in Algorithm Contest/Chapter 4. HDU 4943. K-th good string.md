@@ -5,8 +5,11 @@ HDU 4943. K-th good string
 One day, Lord gave you a string S. Let’s define the pair(x, p) represent the substring S[p-x+1,p-x+2,…,p]. The index of S counts from 0. Then, Lord will tell you some information about this string. 
 
 There are three types of the information: 
+
 1. Lord will give you a pair(x, p) and then says I think the substring is good.(Only consider the substring (x, p) is good, not include the substring of (x, p)) 
+
 2. Lord will give you a pair(x, p) and then says I think the substring is not good. 
+
 3. Lord will give you a pair(x, p) and a integer K, then you should answer the length of the K-th good string. The K-th good string means that if you list all the distinct good strings which contain pair(x, p) as suffix, then sort them by their length in ascending order, the K-th string is K-th good string. 
 
 Now, can you hold the information from Lord? Yon can consider all the substring is not good initially.
