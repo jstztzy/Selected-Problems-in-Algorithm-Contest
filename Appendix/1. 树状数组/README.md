@@ -21,7 +21,7 @@
 由于她实现和分析起来都很简单，用来数据结构一章的开头在合适不过了。
 
 
-数据结构 | 单点修改 | 区间求和
+ |  | 区间求和
  
 原数组 A ｜  O(1)  | O(n)
 
@@ -29,9 +29,26 @@
 
 树状数组 C |  O(logn) |  O(logn)
 
-
-
-
+<table>
+<tr>
+<td>John</td>
+<td>Smith</td>
+<td>123 Main St.</td>
+<td>Springfield</td>
+</tr>
+<tr>
+<td>Mary</td>
+<td>Jones</td>
+<td>456 Pine St.</td>
+<td>Dover</td>
+</tr>
+<tr>
+<td>Jim</td>
+<td>Baker</td>
+<td>789 Park Ave.</td>
+<td>Lincoln</td>
+</tr>
+</table>
 
 
 
