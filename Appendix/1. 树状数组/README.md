@@ -31,22 +31,24 @@
 
 <table>
 <tr>
-<td>John</td>
-<td>Smith</td>
-<td>123 Main St.</td>
-<td>Springfield</td>
+<td>数据结构</td>
+<td>单点修改</td>
+<td>区间求和</td>
 </tr>
 <tr>
-<td>Mary</td>
-<td>Jones</td>
-<td>456 Pine St.</td>
-<td>Dover</td>
+<td>原数组</td>
+<td>O(1)</td>
+<td>O(n)</td>
 </tr>
 <tr>
-<td>Jim</td>
-<td>Baker</td>
-<td>789 Park Ave.</td>
-<td>Lincoln</td>
+<td>前缀和</td>
+<td>O(n)</td>
+<td>O(1)</td>
+</tr>
+<tr>
+<td>树状数组</td>
+<td>O(logn)</td>
+<td>O(logn)</td>
 </tr>
 </table>
 
