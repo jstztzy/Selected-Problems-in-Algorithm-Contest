@@ -43,12 +43,12 @@
 只能消极的做出一些假设。。。交互的手段匮乏。。
 。。。无法得到立即的反馈。。
 
-3. 时效性
+3. 时效性，书的内容相对而言更容易 out-data。。。
+如同 Knuth 在 TAOCP 第一版序言中就提到的那样。。
+。。。 It is extremely difficult to keep up with a field that is economically profitable
 
 
-
-
-- [TED - 迈克·马塔斯：新一代数字图书](http://open.163.com/movie/2011/6/I/K/M76SV33EF_M779E1PIK.html)[]
+- [TED - 迈克·马塔斯：新一代数字图书](http://open.163.com/movie/2011/6/I/K/M76SV33EF_M779E1PIK.html)
 - [TED - 我如何建造出信息时间旅行机器](http://open.163.com/movie/2014/3/L/Q/M9KC8BCV4_M9KH408LQ.html)
 
 ### 本书的结构
