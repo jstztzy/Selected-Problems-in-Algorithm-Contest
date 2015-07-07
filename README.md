@@ -50,6 +50,7 @@ Selected Problems in Algorithm Contest
 
 ### 参考资料
 - [《挑战程序设计竞赛》推荐及算法相关书籍吐槽](http://blog.watashi.ws/2382/pccb-etc/)
+- [寫書小記 by BYvoid](https://www.byvoid.com/blog/compose-a-book)
 - [用 Github、Markdown 和 GitBook 写开源书](http://my.oschina.net/waylau/blog/355179)
 - [...](http://www-cs-faculty.stanford.edu/~uno/selected.html)
 - [...](http://user.qzone.qq.com/251815992/blog/1396717742)
