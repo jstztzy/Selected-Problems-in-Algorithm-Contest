@@ -63,7 +63,14 @@
 因而找题本身已经不再是一件难事，你永远可以找到做不完的题目。
 因而本书并是，以一些题目为线索，讲解相关知识。
 
-所选择的题目
+所选择的题目...
+
+Often several different solutions
+to the same problem will be provided so that the reader has an opportunity
+to become acquainted with a variety of useful tricks, skills, devices,
+and schemes. For example, we shall see that when dealing with labeled
+enumeration problems, the exponential generating functions provide a
+natural vehicle for carrying sufficient information for a solution. 
 
 
 ### 出题的艺术
